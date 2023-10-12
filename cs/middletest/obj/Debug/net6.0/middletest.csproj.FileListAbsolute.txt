@@ -1,0 +1,14 @@
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\bin\Debug\net6.0\middletest.exe
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\bin\Debug\net6.0\middletest.deps.json
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\bin\Debug\net6.0\middletest.runtimeconfig.json
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\bin\Debug\net6.0\middletest.dll
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\bin\Debug\net6.0\middletest.pdb
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.AssemblyInfoInputs.cache
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.AssemblyInfo.cs
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.csproj.CoreCompileInputs.cache
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.dll
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\refint\middletest.dll
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.pdb
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\middletest.genruntimeconfig.cache
+C:\Users\abg14\OneDrive\바탕 화면\workspace\school\middletest\middletest\obj\Debug\net6.0\ref\middletest.dll
